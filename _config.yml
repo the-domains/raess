@@ -1,0 +1,14 @@
+layout_spectrum: 0.3041615
+typography_spectrum: 0.798474
+color:
+  saturation: 0.6306081
+  lightness: 0.3829123
+  brandStrength: 0.1254083
+  rhythmicContrast: 0.06295645
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Raess
